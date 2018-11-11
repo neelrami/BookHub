@@ -1,0 +1,14 @@
+a
+{
+   text-decoration: none !important;
+}
+
+a:hover,a:focus
+{
+    color: white;
+}
+
+.myFont{
+	font-size: 20px;
+}
+        
